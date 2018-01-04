@@ -1,0 +1,70 @@
+body
+{
+	background-color: #303030;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+
+#container
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+}
+
+#logo
+{
+	background-color: #666666;
+	width: 960px;
+	margin: 10px;
+	text-align: center;
+	font-family: 'Oregano', cursive;
+	font-size: 45px;
+	letter-spacing: 3px;
+}
+
+.prostokont
+{
+	background-color: #666666;
+	width: 960px;
+	margin: 10px;
+	text-align: center;
+}
+
+.spk
+{
+	background-color: #0070cf;
+	width: 220px;
+	margin: 10px;
+	float: left;
+	text-align: center;
+}
+
+#img
+{
+	text-align: center;
+	width: 480px;
+	margin: 10px;
+	float: left;
+}
+
+.opcion
+{
+	border-bottom: 2px dotted #444444;
+	margin: 25px;
+	padding: 10px;
+	width: 160;
+}
+
+.opcion:hover
+{
+	color: #fa3939;
+	background-color: #509060
+}
+
+.ht
+{
+	color: #ffffff;
+	text-decoration: none;
+}
