@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>Praca twórcza - Historia</title>
+	<meta name="description" content="Tematem mojej pracy jest postać i twórczość Leonarda da Vinci" />
+	<meta name="keywords" content="Historia, gim12, wiedza, praca twórcza" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<link href="https://fonts.googleapis.com/css?family=Mukta+Vaani|Oregano&amp;subset=latin-ext" rel="stylesheet" >
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/fontello.css" type="text/css" />
+	
+	
+</head>
+
+<body>
+<div id="container">
+	<div id="logo">
+		<a class="ht" href="index.html"><i>Leonardo da Vinci</i></a>
+	</div>
+	<div class="spk">
+		  <br />Wielki człowiek <br /><br /><i>Poeta doctus</i> 
+		 <a class="ht" href="muzyka.html"> <div class="opcion"><i class="icon-note"></i> </div>			</a> 
+		 <a class="ht" href="aparat.html"><div class="opcion"><i class="icon-camera"></i> </div> 		</a>
+		 <a class="ht" href="malarz.html"><div class="opcion"><i class="icon-brush"></i> </div> 			</a>
+		 <a class="ht" href="pisarz.html"><div class="opcion"><i class="icon-feather"></i> </div> 		</a>
+		 <a class="ht" href="samolot.html"><div class="opcion"><i class="icon-flight"></i> </div> 			</a>
+		 <a class="ht" href="lekarz.html"><div class="opcion"><i class="icon-stethoscope"></i> </div> 	</a>
+	</div>
+	<div id="img"> 
+		<img style="height: 538px;" src="img/Monalisa.jpg" />
+	</div>
+	<div class="spk" style="height: 538px;">
+		 <br /><br /><br /><br /><br />Da Vinci był na prawdę genialnym malarzem. Potrafił połączyć matematykę ze sztuką. W jego najsławniejszym obrazie - Monie Lisie, na twarzy jest zachowana złota proporcja, a horyzont jest nierówny z obu stron. Dzięki tym zabiegom obraz jest taki piękny.
+	</div>
+	<div style="clear: both;"></div>
+	<div class="prostokont">
+		Praca  twórcza - Leonardo da Vinci &copy; Łukasz Szczyt IIb gim. 12
+	</div>
+</div>
+</body>
+</html>
